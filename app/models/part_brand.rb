@@ -1,0 +1,2 @@
+class PartBrand < ApplicationRecord
+end

@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  seller: one
+  when: 2025-01-30 16:30:26
+  order_number: 1
+  total_dollars: 9.99
+
+two:
+  title: MyString
+  seller: two
+  when: 2025-01-30 16:30:26
+  order_number: 1
+  total_dollars: 9.99
