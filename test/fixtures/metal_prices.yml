@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  pt: 9.99
+  pd: 9.99
+  rh: 9.99
+  date: 2025-02-04
+
+two:
+  pt: 9.99
+  pd: 9.99
+  rh: 9.99
+  date: 2025-02-04

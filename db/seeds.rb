@@ -7,3 +7,6 @@
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
+
+
+MetalPrice.create(date: Date.parse("5/24/2016"), pt: 1008.0, pd:	548.0, rh:	625.0)
